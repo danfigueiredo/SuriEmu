@@ -1,0 +1,16 @@
+Orcamento Interno
+
+Necessita:
+
+ - Funcionario
+-----------
+
+Regra Calculo salario:
+
+ - Horas Trabalhadas (esperado)
+ - Zangyo (esperado)
+ - Adicional Noturno (esperado)
+ - Maquinario 
+
+Cobranca Interna
+

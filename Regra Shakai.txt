@@ -1,0 +1,23 @@
+Regra Shakai
+
+Pessoas com menos de 75 pagam 9.90 (Saude)
+Pessoas entre 40 e 64 pagam 1.57 (Saude)
+Pessoas com menos de 70 anos pagam 18.300 (Aposentadoria)
+
+Calculo salario referente aos messes: Marco, abril, maio 
+ - Caso o funcionario seja novo e nao tenha trabalhado os meses de base do calculo, o usuario deve inserir uma media manualmente.
+
+
+PorcentagemSeguroSaude
+PorcentagemSeguroEnfermagem
+PorcentagemAposentadoria
+AnoDaVigencia
+
+------------------------
+
+Descontos gerais
+
+id
+Nome
+Valor porcentagem
+Descricao
